@@ -11,16 +11,12 @@ package ec.edu.espe.edu.conjunta.conjunta;
 
 public class Operacion {
 
-    public void suma(final int num1, final int num2) {
-        int resultado = num1 + num2;
-        System.out.println("la suma es: " + resultado);
-
+    public int sumar(final int num1, final int num2) {
+        return num1+num2;
     }
 
-    public void resta(final int num1, final int num2) {
-        int resultado = num1 + num2;
-        System.out.println("la resta es: " + resultado);
-
+    public int restar(final int num1, final int num2) {
+        return num1-num2;
     }
 
 }
