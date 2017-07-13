@@ -44,4 +44,7 @@ public class Operacion {
             return 0;
         }
     }
+    public int modulo(final int a, final int b){
+        return a%b;
+    }
 }
