@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 package ec.edu.espe.edu.conjunta.conjunta;
+
 /**
  * Esta es la clase Operacion que contiene las operaciones aritmeticas.
  *
@@ -26,14 +27,14 @@ package ec.edu.espe.edu.conjunta.conjunta;
 public class Operacion {
 
     public int sumar(final int num1, final int num2) {
-        return num1+num2;
+        return num1 + num2;
     }
 
     public int restar(final int num1, final int num2) {
-        return num1-num2;
+        return num1 - num2;
     }
 
-     public int multiplicacion(int a, int b) {
+    public int multiplicacion(int a, int b) {
         return a * b;
     }
 
@@ -44,7 +45,14 @@ public class Operacion {
             return 0;
         }
     }
-    public int modulo(final int a, final int b){
-        return a%b;
+
+    public int modulo(final int a, final int b) {
+        return a % b;
+    }
+
+    public int potencia(final int base, final int exponente) {
+
+        return (int) (Math.pow(base, exponente));
+
     }
 }
