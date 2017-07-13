@@ -25,6 +25,9 @@ public class StarterMain {
         System.out.println("la resta es : " + obj.restar(a, b));
         System.out.println("la multiplicacion es : " + obj.multiplicacion(a, b));
         System.out.println("la division es : " + obj.division(a, b));
+        System.out.println("la potencia es : " + obj.potencia(a, b));
+        System.out.println("el modulo es : " + obj.modulo(a, b));
+       
 
     }
 
