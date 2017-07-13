@@ -1,5 +1,5 @@
-/*
- * Copyright 2017 INNOVAMENTE.
+/*.
+ * Copyright 2017 PRUEBA_CONJUNTA.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,7 +15,7 @@
  */
 package ec.edu.espe.edu.conjunta.conjunta;
 
-/**
+/**.
  * Esta es la clase Operacion que contiene las operaciones aritmeticas.
  *
  * @author AyrtonWladimir

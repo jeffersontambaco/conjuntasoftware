@@ -1,5 +1,5 @@
-/*
- * Copyright 2017 INNOVAMENTE.
+/*.
+ * Copyright 2017 PRUEBA_CONJUNTA.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,7 +15,7 @@
  */
 package ec.edu.espe.edu.conjunta.conjunta;
 
-/**
+/**.
  * Esta es la clase Operacion que contiene las operaciones aritmeticas.
  *
  * @author AyrtonWladimir
@@ -23,7 +23,7 @@ package ec.edu.espe.edu.conjunta.conjunta;
  * @author jeffe
  * @version 12/07/2017
  */
-public class OperacionesFloat 
+public class OperacionFloat 
 {
    public float sumar(final float num1, final float num2) {
         return num1+num2;
