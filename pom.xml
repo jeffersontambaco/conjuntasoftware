@@ -5,6 +5,31 @@
     <artifactId>conjunta</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <organization>
+        <name>Universidad De Las Fuerzas Armadas "ESPE"</name>
+        <url>http://www.espe.edu.ec</url>
+    </organization>
+
+    <developers>
+        <developer>
+            <email>jalechon@espe.edu.ec</email>
+            <name>Jhonathan Lechon</name>
+            <url>https://github.com/JhonathanALM</url>
+            <id>JhonathanALM</id>
+        </developer>
+        <developer>
+            <email>jeffer_tambaco@hotmail.com</email>
+            <name>JeffersonTambaco</name>
+            <url>https://github.com/jeffersontambaco</url>
+            <id>jeffersontambaco</id>
+        </developer>
+        <developer>
+            <email>awcabezas1@espe.edu.ec</email>
+            <name>Ayrton Cabezas</name>
+            <url>https://github.com/cabezasAyrton</url>
+            <id>cabezasAyrton</id>
+        </developer>
+    </developers>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
