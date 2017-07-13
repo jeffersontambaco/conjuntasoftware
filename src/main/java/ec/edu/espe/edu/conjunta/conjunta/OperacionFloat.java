@@ -15,7 +15,8 @@
  */
 package ec.edu.espe.edu.conjunta.conjunta;
 
-/**.
+/**
+ * .
  * Esta es la clase Operacion que contiene las operaciones aritmeticas.
  *
  * @author AyrtonWladimir
@@ -23,15 +24,16 @@ package ec.edu.espe.edu.conjunta.conjunta;
  * @author jeffe
  * @version 12/07/2017
  */
-public class OperacionFloat 
-{
-   public float sumar(final float num1, final float num2) {
-        return num1+num2;
+public class OperacionFloat {
+
+    public float sumar(final float num1, final float num2) {
+        return num1 + num2;
     }
 
     public float restar(final float num1, final float num2) {
-        return num1-num2;
+        return num1 - num2;
     }
+
     public float multiplicacion(final float a, final float b) {
         return a * b;
     }

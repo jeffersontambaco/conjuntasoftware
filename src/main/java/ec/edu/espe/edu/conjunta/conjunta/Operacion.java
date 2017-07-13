@@ -15,7 +15,8 @@
  */
 package ec.edu.espe.edu.conjunta.conjunta;
 
-/**.
+/**
+ * .
  * Esta es la clase Operacion que contiene las operaciones aritmeticas.
  *
  * @author AyrtonWladimir
@@ -23,7 +24,6 @@ package ec.edu.espe.edu.conjunta.conjunta;
  * @author jeffe
  * @version 12/07/2017
  */
-
 public class Operacion {
 
     public int sumar(final int num1, final int num2) {
@@ -34,11 +34,11 @@ public class Operacion {
         return num1 - num2;
     }
 
-    public int multiplicacion(int a, int b) {
+    public int multiplicacion(final int a, final int b) {
         return a * b;
     }
 
-    public int division(int a, int b) {
+    public int division(final int a, final int b) {
         if (b != 0) {
             return a / b;
         } else {
