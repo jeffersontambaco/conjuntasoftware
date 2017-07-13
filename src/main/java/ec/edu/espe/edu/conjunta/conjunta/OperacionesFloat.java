@@ -32,4 +32,15 @@ public class OperacionesFloat
     public float restar(final float num1, final float num2) {
         return num1-num2;
     }
+    public float multiplicacion(final float a, final float b) {
+        return a * b;
+    }
+
+    public float division(final float a, final float b) {
+        if (b != 0) {
+            return a / b;
+        } else {
+            return 0;
+        }
+    }
 }
