@@ -25,7 +25,7 @@ import java.util.Scanner;
  * @author AyrtonWladimir
  * @author jhona
  * @author jeffe
- * @version 12/07/2017
+ * 
  */
 public class StarterMain {
 
