@@ -43,6 +43,7 @@ public class StarterMain {
         System.out.println("la resta es : " + obj.restar(numero1, numero2));
         System.out.println("la multiplicacion es : "
                 + obj.multiplicacion(numero1, numero2));
+        //nuevo
         System.out.println("la division es : "
                 + obj.division(numero1, numero2));
         System.out.println("la potencia es : "
