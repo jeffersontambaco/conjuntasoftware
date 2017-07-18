@@ -24,7 +24,7 @@ import java.util.Scanner;
  *
  * @author AyrtonWladimir
  * @author jhona
- * @author jeffe
+ * 
  * 
  */
 public class StarterMain {
