@@ -35,6 +35,7 @@ public class StarterMain {
         
         OperacionFloat obj1 = new OperacionFloat();
         char opcion;
+        //nuevo
         int numero1, numero2;
         System.out.println("Ingrese valor 1 : ");
         numero1 = leer.nextInt();
