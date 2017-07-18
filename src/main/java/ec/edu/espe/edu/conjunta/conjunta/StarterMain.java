@@ -24,7 +24,7 @@ import java.util.Scanner;
  *
  * @author AyrtonWladimir
  * @author jhona
- * @author jeffe
+ * 
  * 
  */
 public class StarterMain {
@@ -32,6 +32,7 @@ public class StarterMain {
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
         Operacion obj = new Operacion();
+        
         OperacionFloat obj1 = new OperacionFloat();
         char opcion;
         int numero1, numero2;
