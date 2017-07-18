@@ -73,6 +73,10 @@ public class StarterMain {
                     System.out.println("la division es : "
                             + obj.division(numero1, numero2));
                     System.out.println("\n");
+                    System.out.println("la potencia es : "
+                            + obj.potencia(numero1, numero2));
+                    System.out.println("el modulo es : " + obj.modulo(numero1, numero2));
+                    System.out.println("\n");
                     break;
                 case 'b':
                     System.out.println("Ingrese valor 1 : ");
